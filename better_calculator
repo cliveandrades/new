@@ -11,8 +11,10 @@ elif op == "-":
 elif op == "/":
     print(num1 / num2)
     op = "Division Function"
-else:
+elif op == "*":
     print(num1 * num2)
     op = "Multiplication Function"
+else:
+    print("Invalid operator")
 
 print("You chose", op)
