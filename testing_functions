@@ -1,0 +1,8 @@
+def input_name(name):
+    print("Hello", name)
+
+user1= input("Enter first playername: ")
+user2= input("Enter second playername: ")
+
+input_name(user1)
+input_name(user2)
