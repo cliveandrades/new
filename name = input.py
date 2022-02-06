@@ -33,7 +33,7 @@ elif int(age) >= 18:
     print("aws username is: " + new_user)
     print("your age is: " + age )
     print("you were born in: ",  birthyear ," or ", mightbe) 
-
+print("good bye")
 
 
 
